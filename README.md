@@ -1,8 +1,8 @@
 # Visual-Human-Analysis
-Unified Representation for Instance-level Visual Human Analysis <span style="color: red;">(code will be soon available)</span>    
+Unified Representation for Instance-level Visual Human Analysis (code will be soon available)  
 
+<span style="color: red;">Unified Representation for Instance-level Visual Human Analysis (code will be soon available)</span>
 
-<span style="color: red;">This text is red.</span>
 
 
 #### Visuals:
