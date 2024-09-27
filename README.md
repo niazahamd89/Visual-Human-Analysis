@@ -1,5 +1,5 @@
 # Visual-Human-Analysis
-Unified Representation for Instance-level Visual Human Analysis ${\color{red}(code will be soon available)}$
+Unified Representation for Instance-level Visual Human Analysis ${\color{red}(code\ will\ be\ soon\ available)}$
 
 
 #### Visuals:
