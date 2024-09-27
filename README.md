@@ -1,5 +1,5 @@
 # Visual-Human-Analysis
-Unified Representation for Instance-level Visual Human Analysis <p style=”color:red'>(code will be soon available)</p>   
+Unified Representation for Instance-level Visual Human Analysis $${\color{red}(code will be soon available)}$$
 
 
 #### Visuals:
